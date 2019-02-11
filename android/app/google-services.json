@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "223715442629",
+    "firebase_url": "https://crime-tracer-app.firebaseio.com",
+    "project_id": "crime-tracer-app",
+    "storage_bucket": "crime-tracer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223715442629:android:015e1b3594a17f1c",
+        "android_client_info": {
+          "package_name": "com.audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223715442629-c7p87efgsghscadcdhpjnhmmnv69krlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDff9YOIc-EUwCZJxWvZpNBwrVpRrJ0ZKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223715442629:android:d3643381b527da33",
+        "android_client_info": {
+          "package_name": "com.patienttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223715442629-c7p87efgsghscadcdhpjnhmmnv69krlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDff9YOIc-EUwCZJxWvZpNBwrVpRrJ0ZKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223715442629:android:94c8771e616e5499",
+        "android_client_info": {
+          "package_name": "com.reactnativeanimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223715442629-c7p87efgsghscadcdhpjnhmmnv69krlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDff9YOIc-EUwCZJxWvZpNBwrVpRrJ0ZKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
